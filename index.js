@@ -4,8 +4,7 @@
 // Text: Welcome to React
 
 const element = React.createElement("h1",null,"Welcome to my page");
-// TODO 2:
-// Create the React root
+
 
 const root = ReactDom.CreateRoot(document.getElementById("root");
 
