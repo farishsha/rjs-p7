@@ -3,14 +3,13 @@
 // Tag name: h1
 // Text: Welcome to React
 
-const element = _______________________________;
-
+const element = React.CreateElement("h1",null,"Welcome to my page");
 // TODO 2:
 // Create the React root
 
-const root = _______________________________;
+const root = ReactDom.CreateRoot(document.getElement By Id ("root");
 
 // TODO 3:
 // Render the element
 
-_______________________________;
+root.Render(element);
