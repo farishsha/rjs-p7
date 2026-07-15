@@ -12,4 +12,4 @@ const root = ReactDom.CreateRoot(document.getElement By Id ("root");
 // TODO 3:
 // Render the element
 
-root.Render(element);
+root.render(element);
